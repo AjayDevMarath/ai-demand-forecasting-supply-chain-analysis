@@ -1,4 +1,4 @@
-# AI-Driven Demand Forecasting and Inventory Optimization
+# AI-Driven Demand Forecasting and Inventory Optimization On Supply Chain Performance
 
 ## Overview
 This MBA project investigates the impact of Artificial Intelligence on demand forecasting and inventory optimization in supply chain management.
