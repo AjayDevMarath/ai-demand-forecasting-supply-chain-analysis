@@ -1,40 +1,33 @@
-# Impact of AI-Driven Demand Forecasting and Inventory Optimization on Supply Chain Performance
+# AI-Driven Demand Forecasting and Inventory Optimization
 
 ## Overview
-
-This MBA research project investigates how Artificial Intelligence (AI) improves demand forecasting, inventory optimization, and overall supply chain performance. The study evaluates the relationship between AI adoption and operational efficiency through statistical analysis of responses collected from supply chain and logistics professionals.
+This MBA project investigates the impact of Artificial Intelligence on demand forecasting and inventory optimization in supply chain management.
 
 ## Objectives
-
-* Study the role of AI in demand forecasting.
-* Examine AI-based inventory optimization practices.
-* Analyze the relationship between forecasting and inventory management.
-* Evaluate the impact of AI on supply chain performance.
+- Analyze the influence of AI on demand forecasting
+- Evaluate AI-driven inventory optimization
+- Study the relationship between forecasting and inventory management
+- Assess overall supply chain performance improvements
 
 ## Research Methodology
-
-* Research Type: Descriptive and Analytical
-* Data Collection Method: Structured Questionnaire
-* Respondents: Supply Chain and Logistics Professionals
-* Statistical Techniques: Descriptive Analysis, Correlation Analysis, Regression Analysis, and ANOVA
-
-## Key Findings
-
-* AI significantly improves demand forecasting accuracy.
-* AI-based inventory optimization reduces stock-related issues.
-* Positive relationships exist between forecasting accuracy, inventory management, and supply chain performance.
-* AI adoption improves operational efficiency and customer satisfaction.
+- Primary and Secondary Data
+- Structured Questionnaire
+- Descriptive Analysis
+- Correlation Analysis
+- Regression Analysis
+- ANOVA
 
 ## Tools Used
+- SPSS
+- Microsoft Excel
+- Google Forms
 
-* Microsoft Excel
-* Power BI
-* Statistical Analysis
-* Linear Regression
-* Survey Research
+## Key Findings
+- AI improves forecasting accuracy.
+- AI supports inventory optimization.
+- Better forecasting reduces supply chain uncertainty.
+- AI-enabled processes improve overall supply chain performance.
 
-## Academic Information
-
-MBA – Logistics and Supply Chain Management
-S-Vyasa School of Advanced Studies
-
+## Author
+Ajay Dev M
+MBA Logistics & Supply Chain Management
